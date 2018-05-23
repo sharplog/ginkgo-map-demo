@@ -1,7 +1,8 @@
 # ginkgo-map-demo
 
 ginkgo-map是Vue的一个高德地图插件，这是使用该插件的一个示例。示例内容如下(请参看src/App.vue)：
-[查看本demo的在线演示](http://nsapp.applinzi.com/gmapdemo/)
+
+[查看本demo的在线演示](http://nsapp.applinzi.com/gmapdemo/){:target="_blank"}
 
 ## 显示点、线、面
 
